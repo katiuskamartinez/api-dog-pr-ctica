@@ -1,0 +1,16 @@
+html{
+    box-sizing: border-box;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+}
+.section h1{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+.dog{
+    margin: auto;
+}
+
